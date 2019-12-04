@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./componente3.component.css']
 })
 export class Componente3Component implements OnInit {
-
+ciao4="quarto";
   constructor() { }
 
   ngOnInit() {
